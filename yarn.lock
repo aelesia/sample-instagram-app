@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@aelesia/commons@^0.4.0-next.31":
+  version "0.4.0-next.31"
+  resolved "https://registry.yarnpkg.com/@aelesia/commons/-/commons-0.4.0-next.31.tgz#60811f3f232dd95255a9e589a4d9d5785ab89f26"
+  integrity sha512-ffLOzishbdco3H8ex7kfPd08Qa7NQqil39/YyHSojd4olDqTFeChQOkhLa7/p5Q8n5a5QVMPZ4PgqwUkB0mrgQ==
+  dependencies:
+    dayjs "^1.8.28"
+
 "@babel/code-frame@7.5.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.5.5.tgz#bc0782f6d69f7b7d49531219699b988f669a8f9d"
@@ -4838,6 +4845,11 @@ data-urls@^1.0.0, data-urls@^1.1.0:
     abab "^2.0.0"
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
+
+dayjs@^1.8.28:
+  version "1.8.32"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.8.32.tgz#66c48b95c397d9f7907e89bd29f78b3d19d40294"
+  integrity sha512-V91aTRu5btP+uzGHaaOfodckEfBWhmi9foRP7cauAO1PTB8+tZ9o0Jec7q6TIIRY1N4q1IfiKsZunkB/AEWqMQ==
 
 debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"
